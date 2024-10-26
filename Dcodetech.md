@@ -1,10 +1,10 @@
 1.write a program to find given number is even or odd
 
-number = int(input("enter a number:"))
+'''number = int(input("enter a number:"))
 if(number % 2 == 0):
     print("it is even number")
 else: 
-    print("it is odd number")
+    print("it is odd number")'''
 with function
 
 def evenodd(num):
